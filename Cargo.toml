@@ -1,0 +1,11 @@
+[package]
+name = "maxim_ip"
+version = "0.1.0"
+authors = ["Nikolay Koshkin <koshkin.kna@yandex.ru>"]
+
+[dependencies]
+reqwest = "0.9.3"
+scraper = "0.7.0"
+lettre = "0.8"
+lettre_email = "0.8"
+native-tls = "0.1.0"
